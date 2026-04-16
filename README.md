@@ -49,19 +49,50 @@
 
 ---
 
-## 精选商家一览
+## 精选商家一览（共 21 家）
 
 > 完整信息、链接和评测请访问 **[nodebits.xyz](https://www.nodebits.xyz/)**
 
-- **AI源头** — ChatGPT / Gemini / Grok 续费批发商
-- **Likeai** — Gemini AI 大模型 API 中转站
-- **bmoplus** — 成品号年卡代充、学生资格号、认证卡
-- **gmail1888** — Gemini 资格号与成品号
-- **yh-mo** — Gemini 成品号批发
-- **Meowka 喵卡** — 主营各种 edu 邮箱
-- **NikoCard** — Gemini、GPT 绑卡验证首选
-- **网流工作室** — 综合数字资源平台
-- **Luban Sms** — 短信接码平台
+<table>
+  <tr>
+    <td width="33%" valign="top">
+
+### Gemini / ChatGPT 成品号批发
+- [AI源头](https://www.nodebits.xyz/) — ChatGPT / Gemini / Grok 续费批发商
+- [Likeai](https://www.nodebits.xyz/) — Gemini AI 大模型 API 中转站
+- [bmoplus](https://www.nodebits.xyz/) — 成品号年卡代充、学生资格号、认证卡
+- [tehuio](https://www.nodebits.xyz/) — Gemini、GPT 成品号批发
+- [douyiner](https://www.nodebits.xyz/) — Gemini 成品号 16r，稳定账户专注批发
+- [shihuiai](https://www.nodebits.xyz/) — Gemini 顶配稳定老邮箱，成品号批发 18r
+- [a1gmail](https://www.nodebits.xyz/) — Gemini 成品号批发
+- [发卡网](https://www.nodebits.xyz/) — 1 元起，可过 Gemini 3月订阅
+
+    </td>
+    <td width="33%" valign="top">
+
+### 资格号 / 老邮箱
+- [gmail1888](https://www.nodebits.xyz/) — Gemini 23年资格号 10r，成品号 25r
+- [xxxyan](https://www.nodebits.xyz/) — 老邮箱资格号 15r
+- [Gemini账号批发](https://www.nodebits.xyz/) — Gemini 账号批量采购
+- [yh-mo](https://www.nodebits.xyz/) — Gemini 成品号批发
+- [A1gmail 谷歌邮箱批发](https://www.nodebits.xyz/) — Gmail 邮箱批量采购
+- [gmailgood](https://www.nodebits.xyz/) — Gmail 邮箱批发
+
+    </td>
+    <td width="33%" valign="top">
+
+### Edu 邮箱 / AI 账号 / 工具
+- [Meowka 喵卡](https://www.nodebits.xyz/) — 主营各种 edu 邮箱
+- [NikoCard](https://www.nodebits.xyz/) — Gemini、GPT 绑卡验证首选
+- [猫咔](https://www.nodebits.xyz/) — 各种 AI 账号
+- [CodeX CN](https://www.nodebits.xyz/) — 数字资源综合平台
+- [艾米资源店铺](https://www.nodebits.xyz/) — 综合资源
+- [网流工作室](https://www.nodebits.xyz/) — 综合数字资源平台
+- [Luban Sms](https://www.nodebits.xyz/) — 短信接码平台
+
+    </td>
+  </tr>
+</table>
 
 ---
 
