@@ -5,7 +5,7 @@
 
   <p>
     <strong>精选优质数字资源导航站，一站找齐你需要的一切。</strong><br>
-    ChatGPT Plus 成品号 · Gemini 资格号 · Google Voice 号码 · Gmail 邮箱 · Edu 邮箱 · API 中转 · 更多资源
+    ChatGPT Plus 成品号 · Gemini 资格号 · Google Voice 号码 · Gmail 邮箱 · Edu 教育邮箱 · 虚拟卡 · 接码平台 · 更多资源
   </p>
 
   <p>
@@ -19,7 +19,7 @@
 
 ## NodeBits 是什么？
 
-**[NodeBits](https://www.nodebits.xyz/)** 是一个免费、开放的数字资源导航网站，精选收录了互联网上最优质的资源店铺。无论你是想买 **ChatGPT Plus 成品号**、**Gemini 资格号**、**Google Voice 号码**、**Gmail 邮箱**，还是 **edu 教育邮箱**，都能在 NodeBits 上快速找到靠谱的商家。
+**[NodeBits](https://www.nodebits.xyz/)** 是一个免费、开放的数字资源导航网站，精选收录了互联网上最优质的资源店铺。无论你是想买 **ChatGPT Plus 成品号**、**Gemini 资格号**、**Google Voice 号码**、**Gmail 邮箱**、**edu 教育邮箱**、**虚拟信用卡**，还是 **短信接码平台**，都能在 NodeBits 上快速找到靠谱的商家。
 
 ## 收录资源类型
 
@@ -30,9 +30,16 @@
 | **Google Voice 号码** | 美国 Google Voice 手机号码 |
 | **Gmail 邮箱** | 新号、老号、批量采购 |
 | **Edu 教育邮箱** | 学生邮箱，解锁各类教育折扣 |
-| **Grok / Claude / AI 工具** | 主流 AI 平台账号 |
-| **API 中转站** | AI 大模型 API 代理中转服务 |
-| **接码平台** | 短信验证码接收服务 |
+| **Grok / Claude / Cursor** | 主流 AI 平台账号与工具 |
+| **Apple ID** | 苹果账号 |
+| **Google 账号** | Google 全家桶账号 |
+| **Hotmail / Outlook** | 微软邮箱 |
+| **Telegram / Discord / 推特** | 社交平台账号 |
+| **TikTok** | TikTok 账号 |
+| **GitHub** | GitHub 账号 |
+| **虚拟卡** | 虚拟信用卡，绑卡消费 |
+| **短信接码平台** | 短信验证码接收服务 |
+| **私人住宅IP** | 住宅IP代理服务 |
 
 ## 浏览全部资源
 
@@ -57,37 +64,41 @@
   <tr>
     <td width="33%" valign="top">
 
-### Gemini / ChatGPT 成品号批发
-- [AI源头](https://www.nodebits.xyz/) — ChatGPT / Gemini / Grok 续费批发商
-- [Likeai](https://www.nodebits.xyz/) — Gemini AI 大模型 API 中转站
-- [bmoplus](https://www.nodebits.xyz/) — 成品号年卡代充、学生资格号、认证卡
-- [tehuio](https://www.nodebits.xyz/) — Gemini、GPT 成品号批发
-- [douyiner](https://www.nodebits.xyz/) — Gemini 成品号 16r，稳定账户专注批发
+### Gemini 成品号
+- [yh-mo](https://www.nodebits.xyz/) — Gemini 成品号批发
+- [Likeai - Ai中转站](https://www.nodebits.xyz/) — Gemini AI 大模型 API 中转站
 - [shihuiai](https://www.nodebits.xyz/) — Gemini 顶配稳定老邮箱，成品号批发 18r
 - [a1gmail](https://www.nodebits.xyz/) — Gemini 成品号批发
+- [douyiner](https://www.nodebits.xyz/) — Gemini 成品号 16r，稳定账户专注批发
+- [Gemini账号批发](https://www.nodebits.xyz/) — Gemini 账号批量采购
 - [发卡网](https://www.nodebits.xyz/) — 1 元起，可过 Gemini 3月订阅
-
-    </td>
-    <td width="33%" valign="top">
 
 ### 资格号 / 老邮箱
 - [gmail1888](https://www.nodebits.xyz/) — Gemini 23年资格号 10r，成品号 25r
 - [xxxyan](https://www.nodebits.xyz/) — 老邮箱资格号 15r
-- [Gemini账号批发](https://www.nodebits.xyz/) — Gemini 账号批量采购
-- [yh-mo](https://www.nodebits.xyz/) — Gemini 成品号批发
-- [A1gmail 谷歌邮箱批发](https://www.nodebits.xyz/) — Gmail 邮箱批量采购
-- [gmailgood](https://www.nodebits.xyz/) — Gmail 邮箱批发
 
     </td>
     <td width="33%" valign="top">
 
-### Edu 邮箱 / AI 账号 / 工具
-- [Meowka 喵卡](https://www.nodebits.xyz/) — 主营各种 edu 邮箱
-- [NikoCard](https://www.nodebits.xyz/) — Gemini、GPT 绑卡验证首选
+### ChatGPT / AI 综合
+- [AI源头](https://www.nodebits.xyz/) — ChatGPT / Gemini / Grok 续费批发商
+- [bmoplus](https://www.nodebits.xyz/) — 成品号年卡代充、学生资格号、认证卡
+- [tehuio](https://www.nodebits.xyz/) — Gemini、GPT 成品号批发
+- [NikoCard](https://www.nodebits.xyz/) — Gemini、GPT 绑卡验证首选（虚拟卡）
 - [猫咔](https://www.nodebits.xyz/) — 各种 AI 账号
-- [CodeX CN](https://www.nodebits.xyz/) — 数字资源综合平台
-- [艾米资源店铺](https://www.nodebits.xyz/) — 综合资源
-- [网流工作室](https://www.nodebits.xyz/) — 综合数字资源平台
+- [Meowka 喵卡](https://www.nodebits.xyz/) — 主营各种 edu 邮箱
+- [艾米资源店铺](https://www.nodebits.xyz/) — Gemini / ChatGPT / Claude / Grok
+
+    </td>
+    <td width="33%" valign="top">
+
+### Gmail / Google / 虚拟卡
+- [A1gmail 谷歌邮箱批发](https://www.nodebits.xyz/) — Gmail / Google 账号批量采购
+- [gmailgood](https://www.nodebits.xyz/) — Gmail / Google 邮箱批发
+- [CodeX CN](https://www.nodebits.xyz/) — Gemini / ChatGPT / Google 综合资源
+- [网流工作室](https://www.nodebits.xyz/) — Gemini / ChatGPT / 私人住宅IP / GitHub
+
+### 短信接码
 - [Luban Sms](https://www.nodebits.xyz/) — 短信接码平台
 
     </td>
@@ -100,6 +111,6 @@
 
 **[nodebits.xyz](https://www.nodebits.xyz/) — 你的数字资源一站导航**
 
-ChatGPT 成品号 · Gemini 资格号 · Google Voice 号码 · Gmail 邮箱 · Edu 教育邮箱 · AI 账号 · API 中转
+ChatGPT 成品号 · Gemini 资格号 · Google Voice 号码 · Gmail 邮箱 · Edu 教育邮箱 · 虚拟卡 · 短信接码 · 私人住宅IP
 
 </div>
